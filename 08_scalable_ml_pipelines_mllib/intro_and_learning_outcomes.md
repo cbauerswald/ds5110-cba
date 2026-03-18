@@ -1,6 +1,6 @@
 ## INTRODUCTION
 
-In this module, you will begin by learning about recommender systems and then move to a rich feature utility package in PySpark MLlib. This package supports feature extraction, transformation, and selection. Then you will learn how to construct machine learning pipelines. Finally, you will build your own recommender system on music data.
+In this module, you will begin by learning about a rich feature utility package in PySpark MLlib. This package supports feature extraction, transformation, and selection. Then you will learn how to construct machine learning pipelines. Finally, you will study recommender systems and build your own recommender system on music data.
 
 ## Learning Objectives
 
